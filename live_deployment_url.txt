@@ -1,0 +1,3 @@
+Student Full Name: Dwyane Zhan Salvador Abacan
+GitHub Repository URL: https://github.com/dwyane102/ojt-portfolio   (replace if your repo name differs)
+Live Deployment URL: https://dwyane102.github.io/ojt-portfolio/   (replace with your actual URL)
